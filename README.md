@@ -1,2 +1,2 @@
 # proyecto-titanic
-Haremos machine Learning con los datos del Titanic
+Practicamos Machine Learning con los datos del Titanic y Guia de Jose Rodrigo Amat.
